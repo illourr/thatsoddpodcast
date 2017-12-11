@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: 'Odd Thing\'s Podcast',
+    title: 'That\'s Odd Podcast',
     author: 'Dillon Curry',
     description: 'A podcast that talks about odd things we do in our lives.',
-    siteUrl: 'https://oddthingspodcast.com/',
+    siteUrl: 'https://www.thatsoddpodcast.com/',
   },
   pathPrefix: '/',
   plugins: [
